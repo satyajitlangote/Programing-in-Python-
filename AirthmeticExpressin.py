@@ -1,0 +1,10 @@
+x=10
+y=20
+add=x+y
+print(add)
+sub=x-y
+print(sub)
+pro=x*y
+print(pro)
+div=x/y
+print(pro)
